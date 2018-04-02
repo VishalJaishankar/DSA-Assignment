@@ -1,0 +1,14 @@
+#include<stdio.h>
+//program starts from here
+int main(){
+	/*
+	here
+	*/
+	int i,j,k;//here boy
+	//do operations
+	return 0;
+}
+//this is the end
+/*
+overtime
+*/
